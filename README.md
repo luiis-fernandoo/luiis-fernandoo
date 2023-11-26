@@ -22,8 +22,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /> 
-<img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" width="50" height="50" /> 
-
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
  
 </div>
   
