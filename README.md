@@ -1,8 +1,9 @@
 ### Olá! Eu sou Luis Fernando 👋
 
-- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas no IF Baiano 
+- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas no IF Baiano
+- 📫 Estagiando na empresa Foco Tecnologia e Marketing
 - 💬 Conhecimento em PHP, Python, Java 
-- 📫 Frame-work Django
+- 📫 Frame-work Laravel, Django
 
 <div>
 <a href="https://github.com/luiis-fernandoo">
@@ -20,7 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /> 
+<img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" width="50" height="50" /> 
+
+ 
 </div>
   
   ### Redes Sociais
