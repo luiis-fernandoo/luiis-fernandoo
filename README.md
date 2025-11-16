@@ -1,9 +1,10 @@
 ### Olá! Eu sou Luis Fernando 👋
 
-- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas no IF Baiano
-- 📫 Estagiando na empresa Foco Tecnologia e Marketing
-- 💬 Conhecimento em PHP, Python, Java 
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas pelo IF Baiano
+- 📫 Desenvolvedor Pleno na empresa de software Foco Multimidia
+- 💬 Conhecimento em PHP, Python, Java
 - 📫 Frame-work Laravel, Django
+- 📫 Certificado pela Oracle University como DevOps OCI professional e Kubernetes Specialist.
 
 <div>
 <a href="https://github.com/luiis-fernandoo">
