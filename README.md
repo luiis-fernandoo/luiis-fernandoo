@@ -1,16 +1,10 @@
 ### Olá! Eu sou Luis Fernando 👋
 
 - 🌱 Graduado em Análise e Desenvolvimento de Sistemas pelo IF Baiano
-- 📫 Desenvolvedor Pleno na empresa de software Foco Multimidia
+- 📫 Desenvolvedor Sênior na empresa de software Foco Multimidia
 - 💬 Conhecimento em PHP, Python, Java
 - 📫 Frame-work Laravel, Django
 - 📫 Certificado pela Oracle University como DevOps OCI professional e Kubernetes Specialist.
-
-<div>
-<a href="https://github.com/luiis-fernandoo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiis-fernandoo&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiis-fernandoo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
  
  ### Conhecimento em:
 <div>
